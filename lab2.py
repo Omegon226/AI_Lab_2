@@ -182,16 +182,3 @@ if __name__ == "__main__":
     start = time.perf_counter()
     main()
     print("\n TIME: ", time.perf_counter() - start, ".sec")
-
-
-
-
-
-
-
-
-
-
-
-
-
